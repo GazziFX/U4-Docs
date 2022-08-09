@@ -6,7 +6,7 @@ Running a client on the same machine as dedicated server(s) requires specifying 
 
 Launch the server with the map name, and -Log to open a command prompt. Valid map names:
 
-	Firing_Range
+	FiringRange
 	Blastlane
 	Survival_Sandbox
 	Horde_Sandbox
